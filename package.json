@@ -1,0 +1,9 @@
+{
+  "name": "CasparApp",
+  "version": "0.0.0",
+  "description": "",
+  "devDependencies": {
+    "lodash": "^3.5.0",
+    "osc-min": "^0.2.0"
+  }
+}
